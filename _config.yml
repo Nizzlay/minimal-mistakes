@@ -85,7 +85,7 @@ author:
   name             : "Niels Gouman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Een digital native gefascineerd met digitalisering en efficiëntie."
-  location         : "Dordrecht."
+  location         : "Dordrecht"
   email            : "mail@NielsGouman.nl"
   uri              : "https://nielsgouman.nl/"
   bitbucket        :
@@ -232,8 +232,13 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
   ignore:
     envs: development
+  blanklines: false
+  profile: false
+  startings: []
 
 
 # Defaults
