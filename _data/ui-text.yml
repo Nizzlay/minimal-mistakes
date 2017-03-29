@@ -621,6 +621,49 @@ lt: &DEFAULT_LT
 lt-LT:
   <<: *DEFAULT_LT
 
+# Dutch / Nederlands
+# -----------------
+nl: &DEFAULT_NL
+  page                       : "Pagina"
+  pagination_previous        : "Vorige"
+  pagination_next            : "Volgende"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Menu"
+  toc_label                  : "Op Deze Pagina"
+  ext_link_label             : "Directe Link"
+  less_than                  : "Minder dan"
+  minute_read                : "minuten lezen"
+  share_on_label             : "Deel op"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Categorien:"
+  date_label                 : "Bijgewerkt:"
+  comments_label             : "Laat een reactie achter"
+  comments_title             : "Reacties"
+  more_label                 : "Leer Meer"
+  related_label              : "Waarschijnlijk vind je dit ook tof"
+  follow_label               : "Volg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Recente Berichten"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Reactie"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Naam"
+  comment_form_email_label   : "Email adres"
+  comment_form_website_label : "Website (optioneel)"
+  comment_btn_submit         : "Verstuur Reactie"
+  comment_btn_submitted      : "Verstuurd"
+  comment_success_msg        : "Dank voor je reactie!"
+  comment_error_msg          : "Sorry, er was een error. Waren alle verplichte velden ingevuld?"
+  loading_label              : "Laden..."
+nl-NL:
+  <<: *DEFAULT_NL
+
 # Another locale
 # --------------
 #
