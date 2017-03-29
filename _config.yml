@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+locale                   : "nl-NL"
+title                    : "NielsGouman.nl"
+title_separator          : "•"
+name                     : "Niels Gouman"
+description              : " Een digital native gefascineerd met digitalisering en efficiëntie.."
+url                      : https://nizzlay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /ngnl-remake # the subpath of your site, e.g. "/blog"
+repository               : Nizzlay/ngnl-remake # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+ breadcrumbs             : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "NielsGouman"
 facebook:
-  username               :
+  username               : "nielsgouman"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -66,7 +66,12 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/NielsGouman"
+    - "https://facebook.com/nielsgouman"
+    - "https://www.linkedin.com/in/NielsGouman"
+    - "https://plus.google.com/+NielsGouman"
+    - "https://www.goodreads.com/nizzlay"
 
 # Analytics
 analytics:
@@ -77,30 +82,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Niels Gouman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : " Een digital native gefascineerd met digitalisering en efficiëntie."
+  location         : "Dordrecht, Nederland."
+  email            : "mail@NielsGouman.nl"
+  uri              : "https://nielsgouman.nl/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://facebook.com/nielsgouman"
   foursquare       :
   github           :
-  google_plus      :
-  keybase          :
+  google_plus      : "https://plus.google.com/+NielsGouman/"
+  keybase          : 
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/NielsGouman"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/NielsGouman"
   vine             :
   weibo            :
   xing             :
@@ -171,7 +176,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -206,7 +211,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /categorien/
 tag_archive:
   type: liquid
   path: /tags/
