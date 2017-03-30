@@ -55,6 +55,6 @@ Last en zeker ook least: Bellen. Alleen op afspraak.
 
 Zoals ik al zei heeft asynchrone communicatie *sterk* de voorkeur. Bellen is voor mij de slechtste optie. Dit komt vooral omdat we allebei tegelijkertijd tijd moeten hebben, en meestal is dit niet zo. 
 
-Als ik met iets bezig ben waarbij ik mijn concentratie nodig, heb neem ik niet op. Als ik in gesprek ben met mensen om mij heen, neem ik niet op. Mijn telefoon staat (bijna) 100% van de tijd in "Niet Storen" modus.
+Als ik met iets bezig ben waarbij ik mijn concentratie nodig heb, neem ik niet op. Als ik in gesprek ben met mensen om mij heen, neem ik niet op. Mijn telefoon staat (bijna) 100% van de tijd in "Niet Storen" modus.
 
 Als je per se graag wilt bellen vind ik het handig als we eerst een afspraak maken. Zodat we in ieder geval van te voren weten waar het over gaat, en eventueel tijd hebben om iets voor te bereiden. Zonder afspraak neem ik niet op.
