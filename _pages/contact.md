@@ -3,36 +3,58 @@ title: Contact
 permalink: /contact/
 ---
 
-We never thought of findin' a place where we belong. Don't have to stand alone, we'll never let you fall. Don't need permission to decide what you believe. You gotta learn something when we meet you after school. I said jump, down on Jump Street. I said jump, down on Jump Street. Your friends will be there when your back is to the wall. You'll find you'll need us cause there's no one else to call. When it was hopeless a decision is what you need. You'd better be ready cause' your runnin' outta time. Say jump, 21 Jump, Street.
+{% include toc %}
 
-{% highlight javascript %}
-function meow() {
-    return 'meow';
-}
+Hoe beter je weet wat iemand zijn communicatie voorkeuren zijn, hoe soepeler het contact zal verlopen. Dus ik zal transparant zijn over mijn voorkeuren.
 
-function bark() {
-    return 'woof';
-}
+Te beginnen met wat algemene opmerkingen:
+- Asynchrone communicatie heeft *sterk* de voorkeur
+- Adverteren? Nope, sorry. Dit is mijn persoonlijke site
+- Link ruilen? Nee. Achterhaalde strategie, werkt niet.
+- Product review? Ik sta er voor open om relevante producten te testen en daar een eerlijke mening over te geven
+- Ik houd van open, eerlijk, kort en direct. Efficiëntie heeft voorkeur over koetjes en kalfjes
+- Interview? Staan ik altijd voor open.
+- Inhoudelijk reageren op een bericht? Discussiëren is het waardevolst publiekelijk. Gebruik Disqus onderaan het bericht.
 
-function getRandomAnimal() {
+## iMessage (of SMS)
+Verreweg de beste optie als je mij wilt bereiken. Kort en krachtig. Check ik vele keren op een dag. Komt binnen op al mijn devices. Mijn go-to plek voor chat.
 
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
+Bereikbaar op: **06 121 322 95** of **mail@NielsGouman.nl**
 
-    return animals[Math.floor(Math.random()*animals.length)];
-}
+Zet wel even je naam erbij in het bericht als je niet zeker weet of ik jouw nummer heb, om verwarring te voorkomen.
 
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
-{% endhighlight %}
+## Whatsapp / Signal / Telegram
+Prima 2e keus. Nog steeds kort en krachtig, maar in dit geval komen berichten vooral op mijn iPhone binnen, dus ben ik er iets minder snel mee.
 
-They arrived in fifty mother ships, offering their friendship and advance technology to Earth. Skeptical of the visitors, Mike Donovan and Juliet Parrish infiltrated their ranks and soon discovered some startling secrets. The resistance is all that stands between us... and the visitors.
+Bereikbaar op: **06 121 322 95**
 
-Once in every lifetime, comes a love like this. Oh I need you, you need me, oh my darling can't you see. Young Ones. Darling we're the Young Ones. Young Ones. Shouldn't be afraid. To live, love, there's a song to be sung. Cause we may not be the Young Ones very long.
+## Email
+Ik ben bereikbaar op het adres: **mail@NielsGouman.nl**.   
+PGP: [CE7D 03E3 CF6A 7799 1CC0  74FB 1A4A 1790 92A7 308D](/assets/92A7308D.asc)
+
+Nogmaals: probeer je mail kort te houden! Korte en krachtige mails zijn voor makkelijker om op te reageren dus dan heb je sneller reactie. En het scheelt leeswerk. 
+
+Let erop dat je het liefst één ding bespreekt per mailtje (maar je kunt natuurlijk wel meerdere losse mails sturen). Maakt het voor mij makkelijker om te verwerken, dus ook dat zorgt er weer voor dat jij sneller reactie hebt.
+
+## Social Media
+Wat mij betreft geen aanrader. Vaak weet je niet zeker of een bericht daadwerkelijk aankomt, komt het in een apart vakje, of is er vooraf gedoe over dat je elkaar zou moeten volgen voordat het mag. Nog los van het feit dat je bij social media nooit zeker weet wie er meekijken.
+
+### Twitter
+Zolang je me publiekelijk wilt bereiken kun je Twitter gebruiken om [@NielsGouman](https://twitter.com/NielsGouman) te mentionen.
+
+Ik ga niemand volgen zodat je me een DM zou kunnen sturen. Als het niet publiekelijk kan zijn er betere communicatie opties.
+
+### Facebook
+Je kunt mij volgen, maar verder ben ik *niet* bereikbaar op Facebook. Berichten komen over het algemeen binnen op een aparte plek (waar ik nooit kijk, en geen melding van krijg), waardoor het maanden kan duren voordat ik überhaupt weet dat er een bericht is.
+
+### LinkedIN
+LinkedIN heeft een inbox, maar die gebruik ik *niet*. Heeft dus ook geen nut om mij daar een bericht te sturen. Je kunt beter mailen.
+
+## Bellen
+Last en zeker ook least: Bellen. Alleen op afspraak.
+
+Zoals ik al zei heeft asynchrone communicatie *sterk* de voorkeur. Bellen is voor mij de slechtste optie. Dit komt vooral omdat we allebei tegelijkertijd tijd moeten hebben, en meestal is dit niet zo. 
+
+Als ik met iets bezig ben waarbij ik mijn concentratie nodig, heb neem ik niet op. Als ik in gesprek ben met mensen om mij heen, neem ik niet op. Mijn telefoon staat (bijna) 100% van de tijd in "Niet Storen" modus.
+
+Als je per se graag wilt bellen vind ik het handig als we eerst een afspraak maken. Zodat we in ieder geval van te voren weten waar het over gaat, en eventueel tijd hebben om iets voor te bereiden. Zonder afspraak neem ik niet op.
