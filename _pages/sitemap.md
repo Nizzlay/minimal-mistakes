@@ -5,14 +5,14 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | absolute_url }}) available for digesting as well.
+Een lijst met alle berichten en pagina's op NielsGouman.nl. Als je toevallig een robot bent kun je waarschijnlijk beter de [XML version]({{ "sitemap.xml" | absolute_url }}) versie checken.
 
-<h2>Pages</h2>
+## Pagina's
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
+## Berichten
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
