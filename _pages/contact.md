@@ -10,11 +10,11 @@ Hoe beter je weet wat iemand zijn communicatie voorkeuren zijn, hoe soepeler het
 Te beginnen met wat algemene opmerkingen:
 - Asynchrone communicatie heeft *sterk* de voorkeur
 - Adverteren? Nope, sorry. Dit is mijn persoonlijke site
-- Link ruilen? Nee. Achterhaalde strategie, werkt niet.
+- Link ruilen? Nee. Achterhaalde strategie, werkt niet
 - Product review? Ik sta er voor open om relevante producten te testen en daar een eerlijke mening over te geven
 - Ik houd van open, eerlijk, kort en direct. Efficiëntie heeft voorkeur over koetjes en kalfjes
-- Interview? Staan ik altijd voor open.
-- Inhoudelijk reageren op een bericht? Discussiëren is het waardevolst publiekelijk. Gebruik Disqus onderaan het bericht.
+- Interview? Sta ik altijd voor open
+- Inhoudelijk reageren op een bericht? Discussiëren is het waardevolst publiekelijk. Gebruik Disqus onderaan het bericht
 
 ## iMessage (of SMS)
 Verreweg de beste optie als je mij wilt bereiken. Kort en krachtig. Check ik vele keren op een dag. Komt binnen op al mijn devices. Mijn go-to plek voor chat.
@@ -48,7 +48,7 @@ Ik ga niemand volgen zodat je me een DM zou kunnen sturen. Als het niet publieke
 Je kunt mij volgen, maar verder ben ik *niet* bereikbaar op Facebook. Berichten komen over het algemeen binnen op een aparte plek (waar ik nooit kijk, en geen melding van krijg), waardoor het maanden kan duren voordat ik überhaupt weet dat er een bericht is.
 
 ### LinkedIN
-LinkedIN heeft een inbox, maar die gebruik ik *niet*. Heeft dus ook geen nut om mij daar een bericht te sturen. Je kunt beter mailen.
+LinkedIN heeft een inbox, maar die gebruik ik *niet*. Heeft dus ook geen nut om mij daar een bericht te sturen. Je kunt beter [mailen](#email).
 
 ## Bellen
 Last en zeker ook least: Bellen. Alleen op afspraak.
