@@ -1,0 +1,169 @@
+---
+layout: default
+---
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+      <header>
+        {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+      </header>
+    {% endunless %}
+    <article>
+      <section class="page__content" itemprop="text">
+        <h2>Profiel</h2>
+        <p>Volgens een enquête van monsterboard leest 65% van werkend Nederland maximaal 1 boek per jaar. Ik ben een uitzondering op dat gemiddelde. Je kunt mij omschrijven als een lifelong learner, ik ben altijd een cursus aan het volgen, een boek aan het lezen, of een informatieve podcast aan het luisteren. </p>
+
+<div id="work" class="entry">
+    <header class="entry-header">
+      <h2 class="entry-title">Work</h2>
+    </header>
+    <div class="entry-content">
+          <h3 class="name">
+              <a href="https://thewh.ip">The Whip</a>
+          </h3>
+          <h4 class="position">CEO/President</h4>
+        <div class="date">
+            <span class="startDate">2013-12-01</span>
+            <span class="endDate"> — Present</span>
+        </div>
+          <div class="summary">
+            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+          </div>
+    </div>
+    <div class="entry-content">
+          <h3 class="name">
+              <a href="https://thewh.ip">The Whip 2</a>
+          </h3>
+          <h4 class="position">CEO/President</h4>
+        <div class="date">
+            <span class="startDate">2013-12-01</span>
+            <span class="endDate"> — Present</span>
+        </div>
+          <div class="summary">
+            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+          </div>
+    </div>
+</div>
+<div id="work" class="entry">
+    <header class="entry-header">
+      <h2 class="entry-title">Work</h2>
+    </header>
+    <div class="entry-content">
+          <h3 class="name">
+              <a href="https://thewh.ip">The Whip</a>
+          </h3>
+          <h4 class="position">CEO/President</h4>
+        <div class="date">
+            <span class="startDate">2013-12-01</span>
+            <span class="endDate"> — Present</span>
+        </div>
+          <div class="summary">
+            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+          </div>
+    </div>
+</div>
+        <h2>Ervaring</h2>
+        {% for item in site.data.ervaring %}
+              <div class="where"><h3>{{ item.waar }}</h3></div>
+              <div class="year"><p>{{ item.jaar }}</p></div>
+              <div class="profession"><h3>{{ item.beroep }}</h3></div>
+              <div class="description"><p>{{ item.omschrijving }}</p></div>
+        {% endfor %}
+        <h2>Vrijwilligerswerk</h2>
+        {% for item in site.data.vrijwilligerswerk %}
+          <div class="job clearfix">
+            <div class="col-xs-3">
+              <div class="where"><h3>{{ item.waar }}</h3></div>
+              <div class="year"><p>{{ item.jaar }}</p></div>
+            </div>
+            <div class="col-xs-9">
+              <div class="profession"><h3>{{ item.beroep }}</h3></div>
+              <div class="description"><p>{{ item.omschrijving }}</p></div>
+            </div>
+          </div>
+        {% endfor %}
+        <h2>Opleiding</h2>
+        <ul id="education" class="clearfix">
+          <li>
+            <div class="year pull-left">2009</div>
+            <div class="description pull-right">
+              <h3>Avans Hogeschool</h3>
+              <p>Na het Davinci heb ik mijn opleiding vervolgd aan het HBO. Bedrijfskundige Informatica, bij Avans in Breda. Door omstandigheden helaas van korte duur.</p>
+            </div>
+          </li>
+          <li>
+            <div class="year pull-left">2005</div>
+            <div class="description pull-right">
+              <h3>Davinci College <sup><i class="fa fa-graduation-cap" aria-hidden="true"></i></sup></h3>
+              <p>Op het Davinci (MBO 4) heb ik me verder verdiept in IT. Zelf was ik altijd al actief met het samenstellen van computers, en relaties helpen met hun digitale problemen. Op het Davinci kwam daar ook systeem beheer bij. Eerst op Windows, later ook met Linux. Tevens ging ik als applicatie ontwikkelaar aan de slag met HTML, maar vooral Java. </p>
+            </div>
+          </li>
+          <li>
+            <div class="year pull-left">2001</div>
+            <div class="description pull-right">
+              <h3>Insula College <sup><i class="fa fa-graduation-cap" aria-hidden="true"></i></sup></h3>
+              <p>Op het Insula College ben ik begonnen op VWO niveau, helaas bleek in het eerste jaar al gelijk dat vreemde talen niet mijn sterkste kant is, en dus ben ik vanaf het 2e jaar verder gegaan op het VMBO. Eenmaal verwezen naar
+              het VMBO werd het allemaal erg makkelijk en heb ik moeiteloos mijn diploma behaald.</p>
+              <p>Vakkenpakket: Nederlandse taal, Maatschappijleer, Lichamelijke opvoeding, Kunstvakken 1, Wiskunde, Natuur- en Scheikunde 1, Aardrijkskunde en economie</p>
+            </div>
+          </li>
+        </ul>
+        <!-- CURSUSSEN -->
+        <h2>Cursussen &amp; Trainingen</h2>
+        <ul>
+          {% for item in site.data.trainingen %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 1 %}
+              <li>{{ item.text }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <ul>
+          {% for item in site.data.trainingen %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 0 %}
+              <li>{{ item.text }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <!-- SKILLS -->
+        <h2>Skills</h2> {% for item in site.data.skills %}
+          <div class="skills">{{ item.text }}</div>
+        {% endfor %}
+        <!-- LANGUAGES -->
+        <h2>Talen</h2>
+        <div id="language-skills">
+          <div class="skill">Nederlands
+            <div class="pull-right"><i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i>
+              <i class="fa fa-star fa-lg" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div class="skill">English
+            <div class="pull-right"><i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i> <i class="fa fa-star fa-lg" aria-hidden="true"></i>
+              <i class="fa fa-star-o fa-lg" aria-hidden="true"></i>
+            </div>
+          </div>
+        </div>
+        <!-- SPORT -->
+        <h2>Sport</h2>
+        <h3>Karate (2e kyu kyokushin)</h3>
+        <p>Begonnen toen ik een jaar of 8 was, lid geweest van verschillende sportscholen, nog steeds mee actief. De discipline, diepgang, etiquette, en (fysieke) uitdaging spreken mij enorm aan. Momenteel train ik kyokushin (volcontact) karate bij Omegasport in Dordrecht en heb ik de graad van 2e kyu behaald.</p>
+        <!-- EIGENSCHAPPEN -->
+        <h2>Eigenschappen</h2>
+        {% for item in site.data.eigenschappen %}
+          <div class="kenmerk">{{ item.text }}</div>
+        {% endfor %}
+        <!-- HOBBIES -->
+        <h2>Hobbies &amp; Interesse's</h2> {% for item in site.data.hobbies %}
+          <div class="hobby" data-toggle="tooltip" data-placement="top" title="{{ item.text }}">{{ item.label }}</div>
+        {% endfor %}
+      </section>
+    </div>
+  </article>
+</div>
