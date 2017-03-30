@@ -2,6 +2,8 @@
 main:
   - title: "Over Niels"
     url: /over/
+  - title: "CV"
+    url: /cv/
   - title: "Blog"
     url: /blog/
   - title: "Portfolio"
