@@ -1,0 +1,45 @@
+---
+layout: archive
+---
+
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+    	<h3 class="archive__subtitle">{{ this_year }}</h3>
+    	<ul class="recent-posts">
+    {% endif %}
+
+    <li><a href="{{ post.url }}"><div>
+		<span class="post-title">{{ post.title }}</span>
+		<span class="post-date">
+			{% assign m = post.date | date: "%-m" %}
+			{{ post.date | date: "%-d" }}
+			{% case m %}
+				{% when '1' %}januari
+				{% when '2' %}februari
+				{% when '3' %}maart
+				{% when '4' %}april
+				{% when '5' %}mei
+				{% when '6' %}juni
+				{% when '7' %}juli
+				{% when '8' %}augustus
+				{% when '9' %}september
+				{% when '10' %}oktober
+				{% when '11' %}november
+				{% when '12' %}december
+			{% endcase %}
+		</span></div></a>
+	</li>
+
+    {% if forloop.last %}
+    	</ul>
+    {% else %}
+        {% if this_year != next_year %}
+	        </ul>
+	        <h3 class="archive__subtitle">{{ next_year }}</h3>
+	        <ul class="recent-posts">
+        {% endif %}
+    {% endif %}
+{% endfor %}

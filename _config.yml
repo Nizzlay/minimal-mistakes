@@ -175,7 +175,6 @@ timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 # Plugins
 gems:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -183,7 +182,6 @@ gems:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
