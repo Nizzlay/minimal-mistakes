@@ -1,15 +1,20 @@
 ---
 title: 'Hello World!'
-date: 2017-02-01 14:56
+date: 2017-04-07 14:56
 categories: Random
 tags: 
 ---
 
-Tududu :-)
+BAM!
 
-Steve Austin: Astronaut. A man barely alive. Gentlemen... we can rebuild him. We have the technology. We have the capability to make the world's first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.
+Versie 2.0 van mijn persoonlijke website is *live*. 
 
-My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I've always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I'm a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it's cold and I figured I'd keep better. Now I'm back in Manhattan. New York, this is your last chance!
+Andere [template](https://mmistakes.github.io/minimal-mistakes/), beetje aangepast naar mijn eigen smaak (waaruit toch weer bleek dat frontend, en met name css, niet echt mijn ding is), en deze keer dus inclusief een blog. Want zo'n blog begon ik toch wel te missen. 
 
-Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have... then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn't commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.
+Merkte dat ik nu vooral een paar vrienden aan het lastigvallen was met de zaken die mij interesseren, of de dingen waar ik even over moet ranten.
 
+Daarvoor is een blog veel fijner. Geeft mij meer ruimte om mijn hart te luchten, geeft die vrienden wat meer rust, en is mogelijk nog waardevol voor anderen ook. Win/Win/Win lijkt me.
+
+Voor nu heb ik verder geen enkele vorm van een plan voor de website. Wilde vooral een plek die van mezelf is. Van mij, door mij, over mij. Welke kant dat op termijn op gaat? Who knows. We zullen het zien, ooit.
+
+Dus voor nu: Hello World. 
