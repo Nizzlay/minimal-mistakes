@@ -12,7 +12,7 @@ title_separator          : "•"
 name                     : "Niels Gouman"
 description              : "Een digital native gefascineerd met digitalisering en efficiëntie.."
 url                      : https://nielsgouman.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : / # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : Nizzlay/ngnl-remake # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
  breadcrumbs             : # true, false (default)
