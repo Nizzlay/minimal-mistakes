@@ -11,7 +11,7 @@ Waar dan vervolgens natuurlijk aardig wat reacties op komen. Vooral in de richti
 
 De grap die maar weinigen zich lijken te beseffen is dat Tesla helemaal niet te vergelijken is met autofabrikant x. Volgens mij is Tesla namelijk nauwelijks een autofabrikant. Ze zijn veel meer dan dat.
 
-Bij Tesla pakken het volledige spectrum.
+Bij Tesla pakken ze het volledige spectrum.
 
 Eerst wekken ze de energie op met zonnepanelen, die energie slaan ze op in batterijen (die toevallig ook in een auto gaan), die energie gaan ze vervolgens distribueren via charging stations, en tot slot gebruik je die energie in een elektrische auto.
 
