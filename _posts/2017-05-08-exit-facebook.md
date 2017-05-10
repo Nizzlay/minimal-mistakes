@@ -26,7 +26,8 @@ Best leuk om bij te praten als je iemand na lange tijd toevallig een keer tegenk
 Dus ik ben het voor mezelf eens op een rijtje gaan zetten..
 
 - Ik merk dat ik vooral contact heb met mensen via iMessage en WhatsApp.
-- Als ik iemand wil spreken, of iets wil delen, gebruik ik wederom iMessage of WhatsApp
+- Als ik iemand wil spreken, of iets wil delen, gebruik ik wederom iMessage of WhatsApp.
+- Of als ik iets me af wil schrijven dan heb ik deze blog
 - Ik ben niet nieuwsgierig genoeg om mensen te gaan stalken via Facebook.
 - Ik heb heel wat aan te merken op het algoritme wat mijn Facebook newsfeed bepaalt. Zie zelden iets interessants. Meer ongewenste reclame dan levensgebeurtenissen van mensen waarmee ik bevriend ben. Een vriendin die ik al zeker 15 jaar ken is nu bijvoorbeeld  voor een half jaar aan de andere kant van de wereld aan het backpacken, Facebook heeft me daar niets over laten weten.
 - Ik ben enorm huiverig voor de invloed die Facebook (en de bijbehorende algoritmes) hebben op mijn gedachten en emoties. Super creepy om over na te denken, maar ik ben er van overtuigd dat die algoritmes meer invloed hebben op bijvoorbeeld wat mensen gaan stemmen dan dat de tv debatten of politieke campagnes hebben.
@@ -46,6 +47,8 @@ Om te beginnen zijn er natuurlijk anderen die wél op de hoogte willen blijven v
 
 Ook als ik er zelf niets op zet kunnen ze dan in ieder geval iets zien als ik getagd word of iets dergelijks.
 
+Op zich snap ik het punt, maar dat weegt niet op tegen mijn privacy. Als ze contact met mij willen kunnen ze mij spreken. Of als ze wat meer low-profile willen volgen wat mij bezig houd dan heb ik deze blog.
+
 Een tweede was eigenlijk hetzelfde als mijn advies over email. Je moet het managen, anders verlies je de controle.
 
 Als je Facebook feed vol rotzooi zit, dan moet je beter managen wat wel en niet in je feed mag. Je geeft toch ook niet je e-mailadres aan alle websites en dan klagen dat je veel spam ontvangt.
@@ -56,7 +59,7 @@ De vergelijking gaat niet op. Bij email betaal je om een postvak te hebben waar 
 
 Bij Facebook is het andersom. Daar ben jij niet de klant, maar juist het product. Het verdienmodel is precies andersom. De adverteerder betaalt om in jouw newsfeed te komen, ook als jij daar niet op zit te wachten en je daar nooit voor hebt aangemeld. 
 
-Email is wat dat betreft een stuk simpeler. Als ik mij ergens voor heb aangemeld, dan ontvang ik dat. Als ik mij niet heb aangemeld, dan ontvang ik het niet. Met de spam filters van tegenwoordig is er verder eigenlijk geen middenweg.
+E-mail is wat dat betreft een stuk simpeler. Als ik mij ergens voor heb aangemeld, dan ontvang ik dat. Als ik mij niet heb aangemeld, dan ontvang ik het niet. Met de spam filters van tegenwoordig is er verder eigenlijk geen middenweg.
 
 Bij Facebook zijn er constant dingen waar ik mij nooit voor heb aangemeld die ik wel ontvang, en ook genoeg dingen waar ik mij wél voor heb aangemeld die ik nooit zie.
 
