@@ -42,10 +42,7 @@ Wat mij betreft geen aanrader. Vaak weet je niet zeker of een bericht daadwerkel
 ### Twitter
 Zolang je me publiekelijk wilt bereiken kun je Twitter gebruiken om [@NielsGouman](https://twitter.com/NielsGouman) te mentionen.
 
-Ik ga niemand volgen zodat je me een DM zou kunnen sturen. Als het niet publiekelijk kan zijn er betere communicatie opties.
-
-### Facebook
-Je kunt mij volgen, maar verder ben ik *niet* bereikbaar op Facebook. Berichten komen over het algemeen binnen op een aparte plek (waar ik nooit kijk, en geen melding van krijg), waardoor het maanden kan duren voordat ik überhaupt weet dat er een bericht is.
+Ik ga niemand volgen zodat je me een DM zou kunnen sturen. Als het niet publiekelijk kan is [email](#email) waarschijnlijk een beter idee.
 
 ### LinkedIN
 LinkedIN heeft een inbox, maar die gebruik ik *niet*. Heeft dus ook geen nut om mij daar een bericht te sturen. Je kunt beter [mailen](#email).
