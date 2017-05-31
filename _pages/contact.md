@@ -29,8 +29,7 @@ Prima 2e keus. Nog steeds kort en krachtig, maar in dit geval komen berichten en
 Bereikbaar op: **06 121 322 95**
 
 ## Email
-Ik ben bereikbaar op: **mail@NielsGouman.nl**.   
-PGP: [CE7D 03E3 CF6A 7799 1CC0  74FB 1A4A 1790 92A7 308D](/assets/downloads/92A7308D.asc)
+Ik ben bereikbaar op: **mail@NielsGouman.nl**. Eventueel encrypted met PGP ([92A7308D](/assets/downloads/92A7308D.asc)).
 
 Nogmaals: probeer je mail kort te houden! Korte en krachtige mails zijn voor makkelijker om op te reageren dus dan heb je sneller reactie. En het scheelt leeswerk. 
 
