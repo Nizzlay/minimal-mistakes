@@ -1,7 +1,7 @@
 ---
 title: 'Tesla is geen autofabrikant'
 date: 2017-04-11 11:17
-categories: Random
+categories: Duurzaamheid
 tags: 
 ---
 

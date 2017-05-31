@@ -1,7 +1,7 @@
 ---
 title: 'Exit Facebook.'
 date: 2017-05-08 14:43
-categories: Random
+categories: Privacy
 tags: 
 ---
 
@@ -111,4 +111,4 @@ Na meer zoeken dan ik durf toe te geven blijkt dat je ook je account [echt kunt 
 Schijnt dat het dan nog steeds 90 dagen duurt voordat je gegevens echt weg zijn. Volgens eigen zeggen komt dat door verschillende back-up systemen, al zou het ook goed kunnen dat het juridische redenen heeft.
 
 ## TL;DR
-<iframe width="640" height="360" src="https://www.youtube.com/embed/mGcHNnI2mh4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/mGcHNnI2mh4" frameborder="0" allowfullscreen></iframe>
