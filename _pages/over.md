@@ -1,12 +1,8 @@
 ---
-title: Over Niels
+title: Over Niels Gouman
 permalink: /over/
 ---
 
-{% include toc %}
+Hoi. Ik ben Niels. Ooit ga ik hier een echte tekst zetten. Maar dat komt wel zodra ik deze site omzet naar Hexo, en daarin mijn obsessie voor efficiëntie verder doorvoer. Voor nu is dit in ieder geval alvast beter dan lipsum.
 
-## Blaat
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac mollis nisl, ac viverra mauris. Mauris euismod justo vitae rutrum fringilla. Sed purus turpis, facilisis tristique tincidunt nec, pulvinar in magna. Cras venenatis eros nibh. Pellentesque facilisis libero id quam accumsan, sit amet vulputate arcu lobortis. Donec eros leo, adipiscing sit amet erat sed, vulputate viverra turpis. Donec faucibus risus suscipit nibh posuere commodo. Maecenas non augue vel dui rhoncus egestas et eu turpis. Donec ultricies, augue euismod cursus pellentesque, libero quam pharetra erat, nec pharetra quam massa nec erat.
-
-## Tududu
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac mollis nisl, ac viverra mauris. Mauris euismod justo vitae rutrum fringilla. Sed purus turpis, facilisis tristique tincidunt nec, pulvinar in magna. Cras venenatis eros nibh. Pellentesque facilisis libero id quam accumsan, sit amet vulputate arcu lobortis. Donec eros leo, adipiscing sit amet erat sed, vulputate viverra turpis. Donec faucibus risus suscipit nibh posuere commodo. Maecenas non augue vel dui rhoncus egestas et eu turpis. Donec ultricies, augue euismod cursus pellentesque, libero quam pharetra erat, nec pharetra quam massa nec erat.
+Oh en ik moet even een backlink hebben voor de gastouder opvang van mijn vriendin bij ons thuis: [Kinderopvang Zevenbergen](https://kinderopvangzevenbergen.nl/)
